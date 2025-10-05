@@ -1,4 +1,6 @@
-# 🚗 Indian Car Dataset Analysis using Python
+# 🚗 Indian Car Dataset Analysis
+
+![Indian Car Dataset Analysis](https://www.evolve-h2020.eu/image_temp/1200X628_1200X628_crop_e158717b10b7c79082e001d3c6fd4902.png)
 
 ## 📘 Project Overview
 This project explores and analyzes the **Indian Car Market Dataset** to understand trends in price, mileage, fuel types, and other key performance metrics of cars sold in India.  
