@@ -7,7 +7,7 @@ The goal is to clean, visualize, and derive meaningful insights using **Python**
 ---
 
 ## 📂 Dataset Information
-**Source:** [Kaggle – Indian Car Dataset](https://www.kaggle.com/datasets)  
+**Source:** [Kaggle – Indian Car Dataset](https://www.kaggle.com/datasets/soumyadipghorai/all-cars-in-india-price-and-specifications)  
 **Attributes include:**
 - `Car_Name` – Model of the car  
 - `Price` – Price in lakhs (₹)  
@@ -74,9 +74,8 @@ Some of the key analyses performed:
 
 ## 🧑‍💻 Author
 **👤 Ashwin Shende**  
-📧 [Email Me](mailto:your-email@example.com)  
+📧 [Email Me](mailto:ashwinshende1603@gmail.com)  
 🔗 [Kaggle Profile](https://www.kaggle.com/ashwinshende166)  
-🔗 [LinkedIn](https://linkedin.com/in/your-link)  
 
 ---
 
