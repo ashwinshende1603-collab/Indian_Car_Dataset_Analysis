@@ -57,15 +57,15 @@ Some of the key analyses performed:
   
 - **Correlation Heatmap**
 
-  <img width="741" height="632" alt="Correlation Heatmaps" src="https://github.com/user-attachments/assets/20ca35c2-4264-418c-9b2c-c49575d7d181" />
+  <img width="846" height="470" alt="Correlation Heatmaps" src="https://github.com/user-attachments/assets/20ca35c2-4264-418c-9b2c-c49575d7d181" />
 
 - **Boxplot for Price Outliers**
   
-<img width="1189" height="790" alt="OUTLIERS" src="https://github.com/user-attachments/assets/296da1e1-532f-44ab-bdf8-24fb3a3f0353" />
+ <img width="846" height="470" alt="OUTLIERS" src="https://github.com/user-attachments/assets/296da1e1-532f-44ab-bdf8-24fb3a3f0353" />
 
 - **Top 10 Most Expensive Cars**
 
-  <img width="914" height="470" alt="Top 10 Most Expensive Cars" src="https://github.com/user-attachments/assets/8d370a30-88a8-40da-9228-90d510bafdd1" />
+  <img width="846" height="470" alt="Top 10 Most Expensive Cars" src="https://github.com/user-attachments/assets/8d370a30-88a8-40da-9228-90d510bafdd1" />
 
 ---
 
