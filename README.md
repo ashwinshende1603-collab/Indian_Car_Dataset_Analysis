@@ -44,7 +44,12 @@ The goal is to clean, visualize, and derive meaningful insights using **Python**
 
 ## 📊 Exploratory Data Analysis (EDA)
 Some of the key analyses performed:
-- Distribution of car prices across fuel and transmission types  
+- Distribution of car prices across fuel and transmission types
+- 
+  <img width="1623" height="470" alt="Transmission Type vs Price" src="https://github.com/user-attachments/assets/a35c8684-ef89-437f-a4e5-c2fd9c07876d" />         <img width="1017" height="470" alt="Price vs Fuel Types" src="https://github.com/user-attachments/assets/70af0111-e631-4866-9f0d-f60aa127c0f1" />
+
+
+
 - Correlation between **price**, **mileage**, and **year**  
 - Average mileage comparison across fuel types  
 - Top car brands by price and efficiency  
