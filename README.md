@@ -45,21 +45,27 @@ The goal is to clean, visualize, and derive meaningful insights using **Python**
 ## 📊 Exploratory Data Analysis (EDA)
 Some of the key analyses performed:
 - Distribution of car prices across fuel and transmission types
-- 
-  <img width="1623" height="470" alt="Transmission Type vs Price" src="https://github.com/user-attachments/assets/a35c8684-ef89-437f-a4e5-c2fd9c07876d" />         <img width="1017" height="470" alt="Price vs Fuel Types" src="https://github.com/user-attachments/assets/70af0111-e631-4866-9f0d-f60aa127c0f1" />
-
-
-
 - Correlation between **price**, **mileage**, and **year**  
 - Average mileage comparison across fuel types  
 - Top car brands by price and efficiency  
 - Outlier visualization using boxplots  
 
 ### 📈 Sample Visuals:
-- **Price vs Mileage Scatter Plot**  
-- **Distribution of Fuel Types (Pie Chart)**  
-- **Correlation Heatmap**  
+- **Price vs Mileage Scatter Plot**
+
+  <img width="846" height="470" alt="Price vs Mileage" src="https://github.com/user-attachments/assets/77e79b7c-701a-4b65-afd3-857afb6b162e" />
+  
+- **Correlation Heatmap**
+
+  <img width="741" height="632" alt="Correlation Heatmaps" src="https://github.com/user-attachments/assets/20ca35c2-4264-418c-9b2c-c49575d7d181" />
+
 - **Boxplot for Price Outliers**
+  
+<img width="1189" height="790" alt="OUTLIERS" src="https://github.com/user-attachments/assets/296da1e1-532f-44ab-bdf8-24fb3a3f0353" />
+
+- **Top 10 Most Expensive Cars**
+
+  <img width="914" height="470" alt="Top 10 Most Expensive Cars" src="https://github.com/user-attachments/assets/8d370a30-88a8-40da-9228-90d510bafdd1" />
 
 ---
 
