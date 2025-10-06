@@ -61,7 +61,7 @@ Some of the key analyses performed:
 
 - **Boxplot for Price Outliers**
   
- <img width="846" height="470" alt="OUTLIERS" src="https://github.com/user-attachments/assets/296da1e1-532f-44ab-bdf8-24fb3a3f0353" />
+  <img width="846" height="470" alt="OUTLIERS" src="https://github.com/user-attachments/assets/296da1e1-532f-44ab-bdf8-24fb3a3f0353" />
 
 - **Top 10 Most Expensive Cars**
 
